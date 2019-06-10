@@ -1,0 +1,68 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="55">
+            <item index="0" class="java.lang.String" itemvalue="oauth2client" />
+            <item index="1" class="java.lang.String" itemvalue="functools32" />
+            <item index="2" class="java.lang.String" itemvalue="pyramid_beaker" />
+            <item index="3" class="java.lang.String" itemvalue="pyramid_autoroute" />
+            <item index="4" class="java.lang.String" itemvalue="Babel" />
+            <item index="5" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="6" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="7" class="java.lang.String" itemvalue="httplib2" />
+            <item index="8" class="java.lang.String" itemvalue="gdata" />
+            <item index="9" class="java.lang.String" itemvalue="paste" />
+            <item index="10" class="java.lang.String" itemvalue="python-slugify" />
+            <item index="11" class="java.lang.String" itemvalue="redis" />
+            <item index="12" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="13" class="java.lang.String" itemvalue="freezegun" />
+            <item index="14" class="java.lang.String" itemvalue="certifi" />
+            <item index="15" class="java.lang.String" itemvalue="markdown" />
+            <item index="16" class="java.lang.String" itemvalue="netaddr" />
+            <item index="17" class="java.lang.String" itemvalue="gevent" />
+            <item index="18" class="java.lang.String" itemvalue="pyramid_exclog" />
+            <item index="19" class="java.lang.String" itemvalue="webtest" />
+            <item index="20" class="java.lang.String" itemvalue="nose" />
+            <item index="21" class="java.lang.String" itemvalue="psycogreen" />
+            <item index="22" class="java.lang.String" itemvalue="pastegevent" />
+            <item index="23" class="java.lang.String" itemvalue="ordereddict" />
+            <item index="24" class="java.lang.String" itemvalue="gspread" />
+            <item index="25" class="java.lang.String" itemvalue="waitress" />
+            <item index="26" class="java.lang.String" itemvalue="pyramid_ldap" />
+            <item index="27" class="java.lang.String" itemvalue="pytest" />
+            <item index="28" class="java.lang.String" itemvalue="iso8601" />
+            <item index="29" class="java.lang.String" itemvalue="pyramid_jinja2" />
+            <item index="30" class="java.lang.String" itemvalue="xlwt" />
+            <item index="31" class="java.lang.String" itemvalue="PasteScript" />
+            <item index="32" class="java.lang.String" itemvalue="python-memcached" />
+            <item index="33" class="java.lang.String" itemvalue="zope.sqlalchemy" />
+            <item index="34" class="java.lang.String" itemvalue="pyflwor" />
+            <item index="35" class="java.lang.String" itemvalue="WTForms" />
+            <item index="36" class="java.lang.String" itemvalue="requests[security]" />
+            <item index="37" class="java.lang.String" itemvalue="pyramid" />
+            <item index="38" class="java.lang.String" itemvalue="pillow" />
+            <item index="39" class="java.lang.String" itemvalue="mock" />
+            <item index="40" class="java.lang.String" itemvalue="colander" />
+            <item index="41" class="java.lang.String" itemvalue="pyramid_debugtoolbar" />
+            <item index="42" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="43" class="java.lang.String" itemvalue="pyramid_tm" />
+            <item index="44" class="java.lang.String" itemvalue="transaction" />
+            <item index="45" class="java.lang.String" itemvalue="adium-theme-ubuntu" />
+            <item index="46" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="47" class="java.lang.String" itemvalue="blinker" />
+            <item index="48" class="java.lang.String" itemvalue="chardet" />
+            <item index="49" class="java.lang.String" itemvalue="alabaster" />
+            <item index="50" class="java.lang.String" itemvalue="ccsm" />
+            <item index="51" class="java.lang.String" itemvalue="cffi" />
+            <item index="52" class="java.lang.String" itemvalue="uWSGI" />
+            <item index="53" class="java.lang.String" itemvalue="click" />
+            <item index="54" class="java.lang.String" itemvalue="attrs" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
